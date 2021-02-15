@@ -16,8 +16,5 @@
 <br />
 <br />
 
-### Languages and Tools:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://images.app.goo.gl/spqNdQjFCwGUwyCx5" />]
-
 [website]: https://2anchez.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/crsanchez10/
