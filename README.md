@@ -1,4 +1,4 @@
-Hi there! I'm Christian - aka 2anzhez
+Hi there! I'm Christian - aka 2anchez
 
     👋 I am currently working learning code through openclassrooms courses!
     🌱 I’m currently learning HTML, CSS and JS.
