@@ -17,3 +17,4 @@
 
 
 [website]: https://2anchez.github.io/portfolio/
+[linkedin]: https://www.linkedin.com/in/crsanchez10/
