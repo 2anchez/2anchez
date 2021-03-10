@@ -10,8 +10,8 @@
 - :warning: Fun fact: I enjoy football and basketball; on my free time I will head to the field / court to catch the football or shoot some hoops!
 
 ### Connect With Me:
-[<img align="left" alt="LinkedIn" width="22px" src="img/linkedin_icon.png"/>][linkedin]
-[<img align="left" alt="Link to Portfolio" width="22px" src="img/website.png" />][website]
+[<img align="left" alt="LinkedIn" width="50px" src="img/linkedin_icon.png"/>][linkedin]
+[<img align="left" alt="Link to Portfolio" width="50px" src="img/website.png" />][website]
 
 <br />
 <br />
