@@ -11,7 +11,7 @@
 
 ### Connect With Me:
 [<img align="left" alt="LinkedIn" width="22px" src="img/linkedin_icon.png"/>][linkedin]
-[<img align="left" alt="Link to Portfolio" width="22px" src="https://visualpharm.com/assets/892/Website-595b40b65ba036ed117d3f78.svg" />][website]
+[<img align="left" alt="Link to Portfolio" width="22px" src="img/website.png" />][website]
 
 <br />
 <br />
